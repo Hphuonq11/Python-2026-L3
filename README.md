@@ -1,5 +1,5 @@
 USTH Advanced Programming with Python 2026
 ==================================
 
-* Nguyễn Hà Phương
+* Nguyen Ha Phuong
 * 2510895
